@@ -50,7 +50,7 @@
 {149}{}{Up yours, you old fart!}
 {150}{}{Up yours, you old hag!}
 {151}{}{WOW! I can live on this for the rest of my life! Thanks a lot, mister!}
-{152}{}{WOW! I can live on this for the rest of my life! Thanks a lot, ma'am!}
+{152}{}{WOW! I can live on this for the rest of my life! Thanks a lot, miss!}
 {153}{}{WOW! Thanks... Well...? You're just trying to get me in trouble again!}
 {154}{}{Please don't talk to me, Dan is really mad.}
 {155}{}{Don't worry. I had a talk with him; he'll try to be nicer to you.}

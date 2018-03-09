@@ -4,7 +4,7 @@
 {103}{}{Damn right, shoot that beast!}
 {104}{}{I wouldn't trust that beast, if I were you. That thing is a killer.}
 {105}{}{Mister,}
-{106}{}{Ma'am,}
+{106}{}{Miss,}
 {107}{}{ I would be really happy if you were to get rid of that damn dog.}
 {108}{}{Why?}
 {109}{}{Nah, I only deal with important stuff.}

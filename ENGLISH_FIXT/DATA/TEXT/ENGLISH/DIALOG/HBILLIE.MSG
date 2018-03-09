@@ -55,7 +55,7 @@
 
 # said to female player
 {151}{}{Up yours, you old hag!}
-{153}{}{WOW! I can live on this for the rest of my life. Thanks a lot, ma'am!}
+{153}{}{WOW! I can live on this for the rest of my life. Thanks a lot, miss!}
 
 {154}{}{WOW! Thanks... Well...? You're just trying to get me in trouble again!}
 {155}{}{Please don't talk to me, Dan is really mad.}
