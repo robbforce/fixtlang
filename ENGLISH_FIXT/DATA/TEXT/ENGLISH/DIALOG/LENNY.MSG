@@ -1,7 +1,7 @@
 {100}{}{You see Lenny.}
 {101}{}{You see a loser who smells like a Brahmin.}
 {102}{}{[More]}
-{103}{}{[done]}
+{103}{}{[Done]}
 {104}{}{You hurt one of my friends! We'll make you pay for that! Get 'em, girls!}
 {105}{}{Uh, hi.}
 {106}{}{What are you doing here?}

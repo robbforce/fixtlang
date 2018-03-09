@@ -6,7 +6,7 @@
 {105}{}{Ok.}
 {106}{}{You be good, and Rock won't have to come down on you.}
 {107}{}{Ok.}
-{108}{}{[done]}
+{108}{}{[Done]}
 {109}{}{He refuses to talk to you.}
 {110}{}{You going to get buried, Fool!}
 {111}{}{I am going to kick some serious ass! I am ready to ruuummmblllle!}

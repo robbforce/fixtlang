@@ -246,4 +246,5 @@
 {346}{}{All the wisdom in the world won't help against a .56 caliber slug between the eyes. }
 {347}{}{We're forging a world that's better for everyone. That's all. I'm sorry if you don't understand yet. I pray that someone wiser than I can change your mind. Farewell, my friend. Praise the Master! Praise Peace and Unity! }
 {348}{}{The world holds many surprises, my friend, some pleasant, some unpleasant. Farewell, my friend, and praise the Master! }
-{349}{}{[Done] }
+{349}{}{[Done]}
+

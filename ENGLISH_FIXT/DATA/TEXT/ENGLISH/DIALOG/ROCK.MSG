@@ -5,7 +5,7 @@
 {104}{}{Oh, okay. Where can I get a drink?}
 {105}{}{Who are the Crypts?}
 {106}{}{You look like you could use a cool drink.}
-{107}{}{[done]}
+{107}{}{[Done]}
 {108}{}{Yeah, go to the big building just inside town, and tell 'em Rock sent you.}
 {109}{}{Okay.}
 {110}{}{The Crypts? They are the biggest, baddest crew around. Don't mess with them, if you want to leave Scrapheap in one piece.}
@@ -29,7 +29,7 @@
 {128}{}{Thanks.}
 {129}{}{Well, you sure do ask a lot of questions. I think you should just move along now.}
 {130}{}{Okay.}
-{131}{}{[done]}
+{131}{}{[Done]}
 {132}{}{The Crypts will bury you!}
 {133}{}{Fools got no reason to live.}
 {134}{}{The Foolish shall perish.}
