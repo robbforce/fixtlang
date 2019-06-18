@@ -32,10 +32,10 @@
 {131}{}{I'm here to protect humanity from the likes of you.}
 {132}{}{Oh, shut up!}
 {133}{}{You should not try to fool me by playing dumb. I tire of this...}
-{134}{}{What kind of foolish bigotry is that? We are "humanity". We're just as human as you are.}
+{134}{}{We are "humanity"... what kind of foolish bigotry is that? We're just as human as you are.}
 {135}{}{What kind of crap is that?}
 {136}{}{There is no possible way that you are human.}
-{137}{}{My name is Kyle. I was born to a mother and a father, like yourself. The Master just oversaw my rebirth. These muscles, this skin, this strength does not make me any less human than you. I do not like all that the Unity stands for, but it is the best chance for peace that we have.}
+{137}{}{My name is Kyle. I was born to a mother and a father, like yourself. The Master just oversaw my rebirth. These muscles, this skin, this strength, does not make me any less human than you. I do not like all that the Unity stands for, but it is the best chance for peace that we have.}
 {138}{}{Not on my watch, it isn't. I'm here to put an end to you and your kind.}
 {139}{}{You may be human, but that still doesn't make your Unity right. I guess we will be enemies.}
 {140}{}{It is a pity that you act this way, but you will not proceed further...}
