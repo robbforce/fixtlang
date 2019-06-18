@@ -74,7 +74,7 @@
 {173}{}{What can you tell me about Decker?}
 {174}{}{I think we need to talk about Doc Morbid and some of your secret ingredients.}
 {175}{}{Do you know anything about the missing caravans?}
-{176}{}{Sorry, you can't afford one.}
+{176}{}{Sorry, you can't afford it.}
 {177}{}{One whole iguana, coming up! Anything else?}
 {178}{}{Gimme another iguana on a stick.}
 {179}{}{What can you tell me about a Water Chip?}
@@ -83,7 +83,7 @@
 {182}{}{Anything interesting happening in the Hub?}
 {183}{}{Me want another iguana!}
 {184}{}{Me stuffed! URRRP!}
-{185}{}{Sorry, you can't afford one.}
+{185}{}{Sorry, you can't afford it.}
 {186}{}{One iguana prime cut select, coming up! Anything else?}
 {187}{}{Gimme another iguana on a stick.}
 {188}{}{What can you tell me about a Water Chip?}

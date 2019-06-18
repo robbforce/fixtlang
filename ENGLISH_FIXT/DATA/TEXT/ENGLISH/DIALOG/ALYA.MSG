@@ -22,7 +22,7 @@
 {121}{}{Uh, yeah. I think I'll be going now.}
 {122}{}{I didn't ask. But since you obviously don't have any concept of fun, I think I will end your existence.}
 {123}{}{Mocking me does not bode well for you. I suggest you leave my presence.}
-{124}{}{Damn straight it's fair. Now get out of my face.}
+{124}{}{Darn straight it's fair. Now get out of my face.}
 {125}{}{I am busy right now preparing for our next raid.}
 #
 # Fallout Fixt:
