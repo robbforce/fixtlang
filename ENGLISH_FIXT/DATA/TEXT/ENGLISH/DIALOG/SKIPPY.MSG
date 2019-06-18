@@ -6,7 +6,7 @@
 {105}{}{[Tossing a set of blades near your face] Watch out, you clod. You might get hurt, and then I would have to laugh.}
 {106}{}{You watch it, those things look sharp.}
 {107}{}{Give those things to me before you hurt someone!}
-{108}{}{What are you tossing around, anyways?}
+{108}{}{What are you tossing around, anyway?}
 {109}{}{They are sharp, indeed they are sharper than your wit.}
 {110}{}{Are you challenging me?}
 {111}{}{Ouch, but I suppose I deserved that.}
